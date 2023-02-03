@@ -1,0 +1,10 @@
+{
+	"origin":["#Robotorigin#"],
+
+	"Robotorigin":["A #Robotdescription# #Robotactor# creates a #Robotrdescription# robot that wants to #Robotoutcome# humans"],
+	"Robotdescription": ["lonely", "wicked", "dying","well meaning"],
+	"Robotactor" : ["scientist", "billionaire", "plumber", "genius"],
+	"Robotrdescription" : ["super intelligent ", "malfunctioning", "beautiful", "creepy","gigantic"],
+	"Robotoutcome": ["befriend","understand","murder","emulate"]
+
+}
